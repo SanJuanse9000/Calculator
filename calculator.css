@@ -1,3 +1,32 @@
 @charset "UTF-8";
 /* CSS Document */
 
+/* Calculator Box */
+.box{
+	background-color: 	#e5e7ea;
+	height: 	300px;
+	width: 	250px;
+	border-radius: 	10px;
+	postiton: relative;
+	top: 	80px;
+	left: 40%
+}
+/* Display */
+.display{
+	background-color: 	#bfc4ce;
+	widows: 220px;
+	position: 	relative;
+	left: 	15px;
+	top: 	20px;
+	height: 40px;
+}
+.display 	input 	{
+	position: 	relative;
+	left: 	2px;
+	top: 	2px;
+	height: 	30px;
+	width: 	210px;
+	column-rule: black;;
+/* Calculator Buttons */
+
+/* Stimulate Button Prees */
